@@ -1,12 +1,18 @@
-COMP257/ITEC657 Data Science Portfolio 
-===
+ITEC657 DATA SCIENCE
 
-This repository will hold your portfolio projects for this semester. You should customise this README.md file
-to document your own work - add your name and details and describe what you've done.  This will be displayed
-on your Github page.
+Name : Shubham Rana
 
-Portfolio projects
+Student ID : 45812713
 
-1. Analysis of CSV data for cycling 
+This is the portfolio for project for this semster. Project includes various scenario's on which analysis is required.
 
+1. First scenario includes anaysis on cycling and it has below parts :
+
+ a) join two data frames which have rows have data.
+
+ b) check for distribution , skewness is there or not ?
+
+ c) correlation between various columns.
+
+ d) analysis on difference between various categories of rides.
 
