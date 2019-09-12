@@ -6,6 +6,8 @@ Student ID : 45812713
 
 This is the portfolio for project for this semster. Project includes various scenario's on which analysis is required.
 
+Portfolio 1:
+
 1. First scenario includes anaysis on cycling and it has below parts :
 
  a) join two data frames which have rows have data.
@@ -15,4 +17,19 @@ This is the portfolio for project for this semster. Project includes various sce
  c) correlation between various columns.
 
  d) analysis on difference between various categories of rides.
+
+Portfolio 2:
+
+Data driven prediction models of energy use of appliances in a low energy house.
+
+Various comparions are depicted in the notebook across all the variables. 
+
+1) Two line graphs depicted the appliances usage across the all data.
+
+Data is then splitted into training and testing data to fit in into regression model.
+
+2) Histogram and box plot depicts the nature of the distribution which is right skewed and has many outliers which states many values are out of the range in the data.
+
+3) Correlation is calculated across different variable and highlight the negative vaues between them.
+
 
