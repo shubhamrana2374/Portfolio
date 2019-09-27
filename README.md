@@ -4,7 +4,7 @@
 
 ### Student ID : 45812713
 
-## This is the portfolio for project for this semster. Project includes various scenario's on which analysis is required.
+## This is the portfolio submissions for this semester. Various portfolio's includes different scenario's on which analysis is required.
 
 ## Portfolio 1:
 
@@ -33,9 +33,9 @@ Data is then splitted into training and testing data to fit in into regression m
 3) Correlation is calculated across different variable and highlight the negative vaues between them.
 
 ## Portfolio 3:
+
 **Clustering Visualisation**
+
 1) Generate random cluster centres and assiging each centre with color green, blue, yellow and cyan respectively and thier edge color is red.Centres are genrate by using the formula : (**np.random.randn(k,c)*std + mean** .
 
 2) Visualise the clustering results in each iteration by applying the k means algorithm.
-
-
