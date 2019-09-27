@@ -1,12 +1,12 @@
-ITEC657 DATA SCIENCE
+### ITEC657 DATA SCIENCE
 
-Name : Shubham Rana
+### Name : Shubham Rana
 
-Student ID : 45812713
+### Student ID : 45812713
 
-This is the portfolio for project for this semster. Project includes various scenario's on which analysis is required.
+## This is the portfolio for project for this semster. Project includes various scenario's on which analysis is required.
 
-Portfolio 1:
+## Portfolio 1:
 
 1. First scenario includes anaysis on cycling and it has below parts :
 
@@ -18,9 +18,9 @@ Portfolio 1:
 
  d) analysis on difference between various categories of rides.
 
-Portfolio 2:
+## Portfolio 2:
 
-Data driven prediction models of energy use of appliances in a low energy house.
+**Data driven prediction models of energy use of appliances in a low energy house.**
 
 Various comparions are depicted in the notebook across all the variables. 
 
@@ -31,5 +31,11 @@ Data is then splitted into training and testing data to fit in into regression m
 2) Histogram and box plot depicts the nature of the distribution which is right skewed and has many outliers which states many values are out of the range in the data.
 
 3) Correlation is calculated across different variable and highlight the negative vaues between them.
+
+## Portfolio 3:
+**Clustering Visualisation**
+1) Generate random cluster centres and assiging each centre with color green, blue, yellow and cyan respectively and thier edge color is red.Centres are genrate by using the formula : (**np.random.randn(k,c)*std + mean** .
+
+2) Visualise the clustering results in each iteration by applying the k means algorithm.
 
 
