@@ -40,6 +40,13 @@ Data is then splitted into training and testing data to fit in into regression m
 
 **Clustering Visualisation**
 
-1) Generate random cluster centres and assiging each centre with color green, blue, yellow and cyan respectively and thier edge color is red.Centres are genrate by using the formula : (**np.random.randn(k,c)*std + mean** .
+1) Generate random cluster centres (function defined : **gen_random_centres**) and assiging each centre with color green, blue, yellow and cyan respectively and their edge color is red.Centres are genrate by using the formula : (**np.random.randn(k,c)*std + mean** .
 
-2) Visualise the clustering results in each iteration by applying the k means algorithm.
+2) Visualise the clustering results in each iteration(4) by applying the k means algorithm.
+
+3) To search for clusters, eucledian distance has been used and functions have been customized in the notebook for the same. 
+    euc_dist : to calculate eucledian distance
+    cluster_search : to find new clusters based on distance.
+    centres_search : to find new centres.
+    
+ 4) Iteration has been repeated for five times and in the fourth and fifth iteration there is no significant change so we stop our kmeans alogrithm on 5 only.
