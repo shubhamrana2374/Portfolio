@@ -32,6 +32,10 @@ Data is then splitted into training and testing data to fit in into regression m
 
 3) Correlation is calculated across different variable and highlight the negative vaues between them.
 
+4) Heatmaps depicts the usage for four different months and color coding is different for each month.
+
+5) Linear model has been developed , it predicts value nearly correctly. MSE comes out 17.590 and R2 is 0.0002 for the model developed.
+
 ## Portfolio 3:
 
 **Clustering Visualisation**
