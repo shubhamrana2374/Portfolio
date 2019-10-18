@@ -49,4 +49,4 @@ Data is then splitted into training and testing data to fit in into regression m
     cluster_search : to find new clusters based on distance.
     centres_search : to find new centres.
     
- 4) Iteration has been repeated for five times and in the fourth and fifth iteration there is no significant change so we stop our kmeans alogrithm on 5 only.
+ 4) Iteration has been repeated for five times and in the fourth and fifth iteration there is no significant change so we stop our kmeans alogrithm on 5th iteration only.
